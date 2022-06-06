@@ -47,7 +47,7 @@ I am a Full Stack Developer from Colombia and web3 lover.
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="Nest" alt="Nest" width="40" height="40"/>&nbsp;
   <img src="https://iconape.com/wp-content/files/je/371332/svg/371332.svg" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
