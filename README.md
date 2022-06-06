@@ -35,7 +35,7 @@ I am a Full Stack Developer from Colombia and web3 lover.
 
 - :zap: In my free time, I make algorithms or scripts, go to te gym and play soccer.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-rivera-cepeda-65a273139/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Brayan Cepeda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-rivera-cepeda-65a273139/)
 
 ---
 
@@ -46,7 +46,7 @@ I am a Full Stack Developer from Colombia and web3 lover.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="Nest" alt="Nest" width="40" height="40"/>&nbsp;
-  <img src="https://itnext.io/using-prisma-orm-with-mongodb-in-next-js-e42b1f7543e6" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
+  <img src="https://iconape.com/wp-content/files/je/371332/svg/371332.svg" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
   
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
