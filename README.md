@@ -45,8 +45,8 @@ I am a Full Stack Developer from Colombia and web3 lover.
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="Nest" alt="Nest" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/prismajs/prismajs-original-wordmark.svg" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
+  <img src="https://https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="Nest" alt="Nest" width="40" height="40"/>&nbsp;
+  <img src="https://itnext.io/using-prisma-orm-with-mongodb-in-next-js-e42b1f7543e6" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
   
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
