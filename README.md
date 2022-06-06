@@ -31,7 +31,7 @@
 I am a Full Stack Developer from Colombia and web3 lover.
 - :telescope: I’m working as a Backend developer and contributing to Database modeling for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content Writing and learning as fast as possible.
 
 - :zap: In my free time, I make algorithms or scripts, go to te gym and play soccer.
 
@@ -51,8 +51,8 @@ I am a Full Stack Developer from Colombia and web3 lover.
   <img src="https://www.jasoft.org/Blog/image.axd?picture=/2021/localdb/SQL-Server-logo.png" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
  
   
   
