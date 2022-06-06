@@ -35,7 +35,7 @@ I am a Full Stack Developer from Colombia and web3 lover.
 
 - :zap: In my free time, I make algorithms or scripts, go to te gym and play soccer.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Brayan Cepeda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-rivera-cepeda-65a273139/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Brayan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-rivera-cepeda-65a273139/)
 
 ---
 
