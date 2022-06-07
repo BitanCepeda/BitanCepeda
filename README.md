@@ -68,7 +68,7 @@ I am a Full Stack Developer from Colombia and web3 lover.
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"  title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://www.django-rest-framework.org/img/logo.png"  title="djrest" alt="djrest" width="40" height="40"/>&nbsp;
+  <img src="https://www.azulschool.net/wp-content/uploads/2021/04/Creacion-y-consumo-de-APIs-con-Django-REST-Framework.png"  title="djrest" alt="djrest" width="40" height="40"/>&nbsp;
  
 
   
