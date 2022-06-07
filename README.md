@@ -66,7 +66,7 @@ I am a Full Stack Developer from Colombia and web3 lover.
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title="java" alt="java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"  title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
-  <img src=" https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
   
  
  
