@@ -56,7 +56,7 @@ I am a Full Stack Developer from Colombia and web3 lover.
        height="40"/>&nbsp;
   
   
-  BACK END
+  <b>Back end</b><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
   <img src="https://expressjs.com/images/express-facebook-share.png" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="Nest" alt="Nest" width="40" height="40"/>&nbsp;
@@ -66,32 +66,32 @@ I am a Full Stack Developer from Colombia and web3 lover.
        height="40"/>&nbsp;
   
   
-  DATABASES
+  <b>Databases</b><br>
   <img src="https://www.jasoft.org/Blog/image.axd?picture=/2021/localdb/SQL-Server-logo.png" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   
   
-  BASIC DEVOPS AND VERSIONS CONTROL
+  <b>Basic devops and versions control</b><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
   <img src="https://profile.es/wp-content/media/image.png"  title="docker" alt="docker" width="40" height="40"/>&nbsp;
   
   
-  WEB3 AND BLOCKCHAIN
+  <b>Web3 and blockchain</b><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://repository-images.githubusercontent.com/24655114/c71c5800-6a8c-11e9-9117-8ec357c9f69e" title="Web3" alt="Web3" width="40" height="40"/>&nbsp;
   <img src="https://docs.moonbeam.network/images/index-pages/builders/build/eth-api/libraries/ethersjs.png" title="Ethers" alt="Ethers" width="40" height="40"/>&nbsp;
   
   
-  ANOTHER PROGRAMMING LANGUAGES
+  <b>Another programming languages</b><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="php" alt="php" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title="java" alt="java" width="40" height="40"/>&nbsp;
   
   
-  ANOTHER TOOLS
+  <b>Another tools</b><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"  title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"  title="swagger" alt="swagger" width="40" height="40"/>&nbsp;
 
