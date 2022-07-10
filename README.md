@@ -88,7 +88,11 @@ I am a Full Stack Developer from Colombia and web3 lover.
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"  title="swagger" alt="swagger" width="40" height="40"/>&nbsp;
 </div>
 
-### :chart_increasing: My Github stats:
+---
+
+### :man_technologist: About Me :
+
+### :chart_increasing: My Github stats :
 
 <div>
   ![](https://raw.githubusercontent.com/cepedabrayan/github-stats-transparent/output/generated/overview.svg)
