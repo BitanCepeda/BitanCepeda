@@ -69,6 +69,7 @@ I am a Full Stack Developer from Colombia and web3 lover.
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"  title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"  title="swagger" alt="swagger" width="40" height="40"/>&nbsp;
+  <img src="https://profile.es/wp-content/media/image.png"  title="docker" alt="docker" width="40" height="40"/>&nbsp;
 
  
 
