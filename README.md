@@ -42,7 +42,6 @@ I am a Full Stack Developer from Colombia and web3 lover.
 ### :hammer_and_wrench: Languages and Tools :
 
 <div style="background: white">
- 
   <b>Front end</b><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -53,8 +52,7 @@ I am a Full Stack Developer from Colombia and web3 lover.
        height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="boostrap" alt="boostrap" width="40"     
        height="40"/>&nbsp;
-  
-  
+ 
   <b>Back end</b><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
   <img src="https://expressjs.com/images/express-facebook-share.png" title="Express" alt="Express" width="40" height="40"/>&nbsp;
@@ -64,11 +62,9 @@ I am a Full Stack Developer from Colombia and web3 lover.
   <img src="https://inlab.fib.upc.edu/sites/default/files/styles/large/public/field/image/django-rest-framework.jpg"  title="djrest" alt="djrest" width="40"        
        height="40"/>&nbsp;
   
-  
   <b>Databases</b><br>
   <img src="https://www.jasoft.org/Blog/image.axd?picture=/2021/localdb/SQL-Server-logo.png" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  
   
   <b>Basic devops and versions control</b><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
@@ -76,12 +72,10 @@ I am a Full Stack Developer from Colombia and web3 lover.
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
   <img src="https://profile.es/wp-content/media/image.png"  title="docker" alt="docker" width="40" height="40"/>&nbsp;
   
-  
   <b>Web3 and blockchain</b><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://repository-images.githubusercontent.com/24655114/c71c5800-6a8c-11e9-9117-8ec357c9f69e" title="Web3" alt="Web3" width="40" height="40"/>&nbsp;
   <img src="https://docs.moonbeam.network/images/index-pages/builders/build/eth-api/libraries/ethersjs.png" title="Ethers" alt="Ethers" width="40" height="40"/>&nbsp;
-  
   
   <b>Another programming languages</b><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
@@ -89,17 +83,16 @@ I am a Full Stack Developer from Colombia and web3 lover.
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title="java" alt="java" width="40" height="40"/>&nbsp;
   
-  
   <b>Another tools</b><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"  title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"  title="swagger" alt="swagger" width="40" height="40"/>&nbsp;
-  
-  
-  
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-  ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-  ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+</div>
 
+### :chart_increasing: My Github stats:
+
+<div>
+  ![](https://raw.githubusercontent.com/cepedabrayan/github-stats-transparent/output/generated/overview.svg)
+  ![](https://raw.githubusercontent.com/cepedabrayan/github-stats-transparent/output/generated/languages.svg)
 </div>
 
 ---
