@@ -93,6 +93,12 @@ I am a Full Stack Developer from Colombia and web3 lover.
   <b>Another tools</b><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"  title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"  title="swagger" alt="swagger" width="40" height="40"/>&nbsp;
+  
+  
+  
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+  ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
+  ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
 
 </div>
 
