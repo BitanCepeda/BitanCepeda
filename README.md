@@ -95,6 +95,7 @@ I am a Full Stack Developer from Colombia and web3 lover.
 ### :chart_increasing: My Github stats :
 
 <div>
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=cepedabrayan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
   ![](https://raw.githubusercontent.com/cepedabrayan/github-stats-transparent/output/generated/overview.svg)
   ![](https://raw.githubusercontent.com/cepedabrayan/github-stats-transparent/output/generated/languages.svg)
 </div>
