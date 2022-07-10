@@ -90,10 +90,7 @@ I am a Full Stack Developer from Colombia and web3 lover.
 
 ---
 
-### :man_technologist: About Me :
-
-### :chart_increasing: My Github stats :
-
+### :chart_with_upwards_trend: My Github stats :
    ![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
    ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
    ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
