@@ -98,6 +98,6 @@ I am a Full Stack Developer from :colombia: and web3 lover.
 
 ---
 
-### :chart_with_upwards_trend: Very proud of :
+### :man_student: Very proud of :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CepedaBrayan&repo=Reinforcement-Learning-for-time-series-forecasting)](https://github.com/cepedabrayan/Reinforcement-Learning-for-time-series-forecasting)
