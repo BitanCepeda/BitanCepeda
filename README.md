@@ -28,7 +28,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer from Colombia and web3 lover.
+I am a Full Stack Developer from Colombia :colombia: and web3 lover.
 - :telescope: I’m working as a Full-stack developer for building web applications.
 
 - :seedling: Exploring Technical Content Writing and learning as fast as possible.
