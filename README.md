@@ -98,4 +98,6 @@ I am a Full Stack Developer from Colombia and web3 lover.
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CepedaBrayan&repo=greenrun-test)](https://github.com/cepedabrayan/greenrun-test)
+### :chart_with_upwards_trend: Very proud of :
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CepedaBrayan&repo=Reinforcement-Learning-for-time-series-forecasting)](https://github.com/cepedabrayan/Reinforcement-Learning-for-time-series-forecasting)
