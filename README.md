@@ -100,4 +100,4 @@ I am a Full Stack Developer from :colombia: and web3 lover.
 
 ### :man_student: Very proud of :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CepedaBrayan&repo=Reinforcement-Learning-for-time-series-forecasting)](https://github.com/cepedabrayan/Reinforcement-Learning-for-time-series-forecasting)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CepedaBrayan&repo=Reinforcement-Learning-for-time-series-forecasting&theme=vue-dark)](https://github.com/cepedabrayan/Reinforcement-Learning-for-time-series-forecasting)
