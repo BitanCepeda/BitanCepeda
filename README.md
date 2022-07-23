@@ -92,12 +92,16 @@ I am a Full Stack Developer from :colombia: and web3 lover.
 
 ---
 
-### :chart_with_upwards_trend: My Github stats :
-   ![Github Stats](https://github-readme-stats.vercel.app/api?username=cepedabrayan&theme=panda)<br>
-
+### :man_student: Very proud of :
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CepedaBrayan&repo=Reinforcement-Learning-for-time-series-forecasting&theme=vue-dark)](https://github.com/cepedabrayan/Reinforcement-Learning-for-time-series-forecasting)
 
 ---
 
-### :man_student: Very proud of :
+### :chart_with_upwards_trend: My Github stats :
+![Github Stats](https://github-readme-stats.vercel.app/api?username=cepedabrayan&theme=panda)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CepedaBrayan&repo=Reinforcement-Learning-for-time-series-forecasting&theme=vue-dark)](https://github.com/cepedabrayan/Reinforcement-Learning-for-time-series-forecasting)
+
+   
+   
+
