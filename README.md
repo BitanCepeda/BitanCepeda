@@ -53,7 +53,7 @@ I am a Full Stack Developer from :colombia: and web3 lover.
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwindcss" alt="tailwindcss" width="40"      
        height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="boostrap" alt="boostrap" width="40"     
-       height="40"/>&nbsp;
+       height="40"/>&nbsp;<br>
  
   <b>Back end</b><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
