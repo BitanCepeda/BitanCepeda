@@ -28,7 +28,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer from :colombia: and web3 lover.
+I am a Ssr. full-stack web developer from :colombia: and web3 lover.
 - :telescope: I’m Systems engineer working as a Ssr. full-stack web developer.
 
 - :seedling: Exploring Technical Content Writing and learning as fast as possible.
