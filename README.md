@@ -93,7 +93,7 @@ I am a <strong>Ssr. full-stack web developer</strong> from :colombia: and web3 l
   <b>Another tools</b><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"  title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"  title="swagger" alt="swagger" width="40" height="40"/>&nbsp;
-  <img src="https://www.dataart.com.ar/media/3047686/articles-postman-big-1600x960.jpg"  title="postman" alt="postman" width="40" height="40"/>&nbsp;
+  <img src="https://media-exp1.licdn.com/dms/image/C560BAQG4xGO7GA7ExA/company-logo_200_200/0/1625156273146?e=2159024400&v=beta&t=ZXXnqySP5SQZw86cd3zvR4kEOWc4kP47FBpf6SVEXDY"  title="postman" alt="postman" width="40" height="40"/>&nbsp;
   <img src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png"  title="insomnia" alt="insomnia" width="40" height="40"/>&nbsp;
 </div>
 
