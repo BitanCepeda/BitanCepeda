@@ -60,7 +60,7 @@ I am a <strong>Ssr. full-stack web developer</strong> from :colombia: and web3 l
   <img src="https://expressjs.com/images/express-facebook-share.png" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="Nest" alt="Nest" width="40" height="40"/>&nbsp;
   <img src="https://iconape.com/wp-content/files/je/371332/svg/371332.svg" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
-  <img src="https://miro.medium.com/max/632/1*kVZLhwL5XfXAnr3ZbIkHJw.png" title="Knex" alt="Knex" width="40" height="40"/>&nbsp;
+  <img src="https://img.stackshare.io/service/3376/knex.png" title="Knex" alt="Knex" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://inlab.fib.upc.edu/sites/default/files/styles/large/public/field/image/django-rest-framework.jpg"  title="djrest" alt="djrest" width="40"        
        height="40"/>&nbsp;
